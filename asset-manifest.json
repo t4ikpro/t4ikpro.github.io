@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarisapryanto.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tarisapryanto.github.io/static/js/main.614897d7.chunk.js",
+    "main.js.map": "/tarisapryanto.github.io/static/js/main.614897d7.chunk.js.map",
+    "runtime-main.js": "/tarisapryanto.github.io/static/js/runtime-main.d4081c74.js",
+    "runtime-main.js.map": "/tarisapryanto.github.io/static/js/runtime-main.d4081c74.js.map",
+    "static/js/2.b9616606.chunk.js": "/tarisapryanto.github.io/static/js/2.b9616606.chunk.js",
+    "static/js/2.b9616606.chunk.js.map": "/tarisapryanto.github.io/static/js/2.b9616606.chunk.js.map",
+    "index.html": "/tarisapryanto.github.io/index.html",
+    "precache-manifest.b75b5d87c8c9a8ae214f7a64dc9fefdf.js": "/tarisapryanto.github.io/precache-manifest.b75b5d87c8c9a8ae214f7a64dc9fefdf.js",
+    "service-worker.js": "/tarisapryanto.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/tarisapryanto.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b9616606.chunk.js.LICENSE": "/tarisapryanto.github.io/static/js/2.b9616606.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4081c74.js",
+    "static/js/2.b9616606.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.614897d7.chunk.js"
+  ]
+}
